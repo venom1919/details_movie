@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">the_details_movie</string>
+    <string name="floating_btn_description" />
+    <string name="movie_rating" />
+    <string name="users_rating_txt" />
+    <string name="movie_title" />
+    <string name="star_rating_description" />
+    <string name="year_released" />
+    <string name="age_restriction" />
+    <string name="duration" />
+    <string name="synopsis" />
+    <string name="movie_synopsis" />
+    <string name="cast" />
 </resources>

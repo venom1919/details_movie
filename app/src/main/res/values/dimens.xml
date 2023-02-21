@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="xsmall" />
+    <dimen name="small" />
+    <dimen name="small_sp" />
+    <dimen name="medium" />
+    <dimen name="large" />
+    <dimen name="medium_sp" />
+    <dimen name="xlarge" />
+</resources>

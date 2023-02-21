@@ -1,4 +1,4 @@
 package com.vm.the_details_movie.data.mappers
 
-class MovieModelMappers {
+class MovieResponseMapper {
 }
